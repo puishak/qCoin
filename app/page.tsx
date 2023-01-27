@@ -3,6 +3,7 @@ export default function Home() {
     <div>
         <h1>A1</h1>
         <h1>A2</h1>
+        <h1>A3</h1>
     </div>
   );
 }
